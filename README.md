@@ -2,6 +2,7 @@
 Displaying modified digital hanging scale data on p10 led panel using arduino
 
 materials: 
+
 digital hanging scale custom, load cell amplifier high quality HX711, 2x1 led panel p10 (2 pcs), arduino uno/duemilanov, power supply 5v/10A for led panel p10, adaptor 5v/3A, data cable hub 16 pin, power cable, jumper cable.
 
 instruction: 
