@@ -18,4 +18,5 @@ A. digital hanging scale to HX711 load cell amplifier
 B. Arduino to p10 led panel pin connection (see http://indomaker.com/index.php/2019/01/05/memulai-p10-led-matrix-menggunakan-arduino/)
 
 references:
+
 https://youtu.be/tmNJagY0NEg
