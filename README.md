@@ -9,7 +9,7 @@ instructions:
 
 A. digital hanging scale to HX711 load cell amplifier
 1. disconnect the cables connecting the scale sensor (green-white-red-black) to the modified scale display board. Then solder the cables to the PCB
-2. use a mouse cable or a former speaker cable with a length of 1.2 meter to and connect the 4 cables to the PCB that has been soldered at number 1.
+2. use a mouse cable or a former speaker cable with a length of 1 - 1.2 meter to and connect the 4 cables to the PCB that has been soldered at number 1.
 3. the weighing case is punched at the top so that the 1 meter long cable can come out
 4. disconnect the cable connected to the battery on the modified scale display panel board.
 5. lastly, close the case gently tighten the bolt nut; make sure the position of the component parts remains the same when first opened.
